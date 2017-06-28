@@ -1,0 +1,106 @@
+{
+    "contacts": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "mr",
+                "first": "vincent",
+                "last": "hamilton"
+            },
+            "location": {
+                "street": "3078 springfield road",
+                "city": "winchester",
+                "state": "gloucestershire",
+                "postcode": "QS9 7RE"
+            },
+            "email": "vincent.hamilton@example.com",
+            "login": {
+                "username": "heavyleopard788",
+                "password": "darius",
+                "salt": "ckIgbaBc",
+                "md5": "a4b51d16c2daef2684914e8ddb7953f2",
+                "sha1": "fc9e995d3e0d9c9dccdf00e5c6566c8b06ba4dad",
+                "sha256": "17b5e2bba784a17f614dc5efe6034477d7d0ec84a5edaf50df92a9b3faa8f803"
+            },
+            "dob": "1981-08-08 21:52:16",
+            "registered": "2016-07-28 02:05:43",
+            "phone": "015395 49678",
+            "cell": "0734-323-101",
+            "id": 1,
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/1.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/1.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
+            },
+            "nat": "GB"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "miss",
+                "first": "fanny",
+                "last": "charles"
+            },
+            "location": {
+                "street": "5106 rue du cardinal-gerlier",
+                "city": "perpignan",
+                "state": "seine-et-marne",
+                "postcode": 43112
+            },
+            "email": "fanny.charles@example.com",
+            "login": {
+                "username": "goldenpanda984",
+                "password": "menace",
+                "salt": "vFKJCKt6",
+                "md5": "c1f83aa2ead487462bfbc21311d7cd66",
+                "sha1": "7717f10eee3435b420f052daf7e724baa108f6f4",
+                "sha256": "1c5c46c54d196dbdb29cd18b5d63ea285798f4ff6c93ed07167009a453d968db"
+            },
+            "dob": "1986-01-16 09:37:35",
+            "registered": "2007-11-23 18:59:31",
+            "phone": "04-50-47-75-92",
+            "cell": "06-71-30-49-82",
+            "id": 2,
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/34.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/34.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/34.jpg"
+            },
+            "nat": "FR"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "miss",
+                "first": "kayla",
+                "last": "patterson"
+            },
+            "location": {
+                "street": "7521 the green",
+                "city": "portarlington",
+                "state": "galway",
+                "postcode": 31023
+            },
+            "email": "kayla.patterson@example.com",
+            "login": {
+                "username": "beautifulrabbit853",
+                "password": "rocky1",
+                "salt": "BtXxgesQ",
+                "md5": "89acd2edfed06ec33c8aaffabda83901",
+                "sha1": "523ec8c3af33fc4f7095ae93573547fabc24d2ab",
+                "sha256": "304b367d36a54d33f284e97f80a7cc17c57f8a4c7c374560efe4e18e80a47f52"
+            },
+            "dob": "1948-03-09 03:53:06",
+            "registered": "2010-09-22 18:09:58",
+            "phone": "011-506-6477",
+            "cell": "081-897-1881",
+            "id": 3,
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/6.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/6.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/6.jpg"
+            },
+            "nat": "IE"
+        }
+    ]
+}
